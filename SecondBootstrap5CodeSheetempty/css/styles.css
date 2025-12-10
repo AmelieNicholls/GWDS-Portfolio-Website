@@ -182,3 +182,13 @@ margin-bottom:30px;
     transition: 0.3s ease;
     margin-bottom: 20px;
 }
+
+.image-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+}
+.image-wrapper img {
+    max-height: 100%;
+}
